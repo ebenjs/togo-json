@@ -7,16 +7,16 @@
     "nom": "Plateaux",
     "code": "PL"
   },
-    {
-        "nom": "Centrale",
-        "code": "CE"
-    },
-    {
-        "nom": "Kara",
-        "code": "KA"
-    },
-    {
-        "nom": "Savanes",
-        "code": "SA"
-    }
+  {
+    "nom": "Centrale",
+    "code": "CE"
+  },
+  {
+    "nom": "Kara",
+    "code": "KA"
+  },
+  {
+    "nom": "Savanes",
+    "code": "SA"
+  }
 ]
